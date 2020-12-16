@@ -30,6 +30,11 @@ We consider that taking the mean of the class prototype isn’t necessarily repr
   <img src="images/Picture2.png" width="900"/>
 </div>
 
+## Presentation 
+```
+Download the file Few_Shot_Classification.pptx
+```
+
 ## Installation
 #### Download project files
 ```
