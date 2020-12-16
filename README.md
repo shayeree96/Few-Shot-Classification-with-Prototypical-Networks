@@ -77,13 +77,10 @@ max_epoch = 5
 epoch_size = 2000
 
 ```
-## Evaluation
-Navigate to the project root directory
 
-Run:
-```
-python3 eval_voc.py
-```
+Our Experiemental results on the the Omniglot Dataset are able to achieve accuracy at par with that of the Official paper [https://arxiv.org/abs/1703.05175] 
 <div align="center">
-  <img src="images/22_new.png" width="800"/>
+  <img src="images/Picture3.png" width="800"/>
 </div>
+
+
