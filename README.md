@@ -7,7 +7,7 @@ We first define the N-way K-shot image classification task.
 Given: a support set composed of N labels and, for each label, K labeled images; a query set composed of Q query images; the task is to classify the query images among the N classes given the N×K images in the support set. When K is small (typically K<10), we talk about few-shot image classification (or one-shot in the case where K=1).
 
 <div align="center">
-  <img src="images/FPN_illustration.png" width="500"/>
+  <img src="images/Picture1.png" width="500"/>
 </div>
 
 - Prototypical Networks is based on the concept that there exists an embedding in which points cluster around a single prototype representation for each class
@@ -27,7 +27,7 @@ Instead of representing  the classes’s prototype to be the mean of its support
 We consider that taking the mean of the class prototype isn’t necessarily representative of the class 
 
 <div align="center">
-  <img src="images/FCOS_MLFPN_Architecture.png" width="900"/>
+  <img src="images/Picture2.png" width="900"/>
 </div>
 
 ## Installation
